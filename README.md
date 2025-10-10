@@ -14,6 +14,7 @@ The following datasets are used in this research:
 
 - [IEMOCAP](https://sail.usc.edu/iemocap/index.html) - 7,433 utterances, 4-class emotion recognition
 - [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/) - 2,219 utterances, sentiment analysis
+- We also provide the [dataset features](https://pan.baidu.com/s/1tXYsXSUGjagZjD9SqRb8Vw?pwd=dgsg) used in the code.
 
 ### Dataset Structure
 
