@@ -52,3 +52,5 @@ python3 experiment_missing_rate.py \
 - `--hidden_dim`: Hidden dimension 
 - `--ablation_type`: Ablation type (`full`, `w/o_SP`, `w/o_TP`, `w/o_DSD`, `w/o_GSC`)
 - `--run_all`: Run all experiments for paper
+### Saving Results:
+The results will be saved in the `results/` directory. Different hardware and runtime environments may lead to variations in results, so it's recommended to try different hyperparameter settings or random seeds to achieve the best performance.
