@@ -18,7 +18,7 @@ The following datasets are used in this research:
 ### Dataset Structure
 
 ```
-DGSDNet1/
+DGSDNet/
 └── dataset/
     ├── IEMOCAPFour/
     │   ├── IEMOCAP_features_raw_4way.pkl
