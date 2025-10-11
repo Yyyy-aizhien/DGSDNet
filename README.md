@@ -21,7 +21,7 @@ The following datasets are used in this research:
 ```
 DGSDNet/
 └── dataset/
-    ├── IEMOCAPFour/
+    ├── IEMOCAP/
     │   ├── IEMOCAP_features_raw_4way.pkl
     │   └── features/
     │       ├── wav2vec-large-c-UTT/
